@@ -38,10 +38,6 @@ Technology drives the most revenue and profit, while some furniture items cause 
 
 ---
 
-## 🚀 Future Improvements
-- Sales forecasting  
-- Customer segmentation  
-- Region-wise analysis  
 
 ## Dashboard
 ![image alt](https://github.com/Rohanrabade/PowerBI_SalesAnalysis/blob/main/img1.png)
