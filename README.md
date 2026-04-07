@@ -46,4 +46,6 @@ Technology drives the most revenue and profit, while some furniture items cause 
 ## Dashboard
 ![image alt](https://github.com/Rohanrabade/PowerBI_SalesAnalysis/blob/main/img1.png)
 
+![image alt](https://github.com/Rohanrabade/PowerBI_SalesAnalysis/blob/main/img2.png)
+
 
